@@ -1,2 +1,2 @@
-# juego-numero-secreo
+# juego-numero-secreto
 Juego de número secreto Alura Latam
